@@ -1,0 +1,352 @@
+fileFormatVersion: 2
+guid: b870512ca43591e4b83598e6ebbafa33
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7999755237858824017
+    second: Fall anim_0
+  - first:
+      213: -1738081760641302957
+    second: Fall anim_1
+  - first:
+      213: -489928545435179767
+    second: Fall anim_2
+  - first:
+      213: -360155453921815303
+    second: Fall anim_3
+  - first:
+      213: -1293975718118879693
+    second: Fall anim_4
+  - first:
+      213: 2293676263070898250
+    second: Fall anim_5
+  - first:
+      213: 8697208435970626795
+    second: Fall anim_6
+  - first:
+      213: -8745240092199174960
+    second: Fall anim_7
+  - first:
+      213: -2736895999947943929
+    second: Fall anim_8
+  - first:
+      213: 8484599125849095009
+    second: Fall anim_9
+  - first:
+      213: -590998139146618266
+    second: Fall anim_10
+  - first:
+      213: 6639102693099001008
+    second: Fall anim_11
+  - first:
+      213: -570193799560754905
+    second: Fall anim_12
+  - first:
+      213: 7032318685588993449
+    second: Fall anim_13
+  - first:
+      213: -4959166855477567812
+    second: Fall anim_14
+  - first:
+      213: -5098537236157209149
+    second: Fall anim_15
+  - first:
+      213: -7911119108202359090
+    second: Fall anim_16
+  - first:
+      213: 5578609339285298333
+    second: Fall anim_17
+  - first:
+      213: 7884820733155405464
+    second: Fall anim_18
+  - first:
+      213: 88781615140964902
+    second: Fall anim_19
+  - first:
+      213: 3752773805282689235
+    second: Fall anim_20
+  - first:
+      213: 8198041011352253404
+    second: Fall anim_21
+  - first:
+      213: -6505215709650603447
+    second: Fall anim_22
+  - first:
+      213: -5051390249025156068
+    second: Fall anim_23
+  - first:
+      213: 8283251225685992464
+    second: Fall anim_24
+  - first:
+      213: -4459583813824334507
+    second: Fall anim_25
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1080
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fall anim_0
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 673
+        width: 650
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0ba55eef82bf090800000000000000
+      internalID: -7999755237858824017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fall anim_3
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 582
+        width: 650
+        height: 412
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f41219d588700bf0800000000000000
+      internalID: -360155453921815303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fall anim_4
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 492
+        width: 649
+        height: 502
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e0b8da0ffda0ee0800000000000000
+      internalID: -1293975718118879693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fall anim_5
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 406
+        width: 651
+        height: 589
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48161aa866c4df10800000000000000
+      internalID: 2293676263070898250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fall anim_6
+      rect:
+        serializedVersion: 2
+        x: 2738
+        y: 315
+        width: 650
+        height: 679
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be45f832ef0b2b870800000000000000
+      internalID: 8697208435970626795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fall anim_7
+      rect:
+        serializedVersion: 2
+        x: 3407
+        y: 226
+        width: 650
+        height: 769
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dcb6fc687aa2a680800000000000000
+      internalID: -8745240092199174960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fall anim_8
+      rect:
+        serializedVersion: 2
+        x: 4098
+        y: 136
+        width: 649
+        height: 858
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7005ae7b697940ad0800000000000000
+      internalID: -2736895999947943929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fall anim_9
+      rect:
+        serializedVersion: 2
+        x: 4778
+        y: 50
+        width: 650
+        height: 947
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b33dd93f95fb570800000000000000
+      internalID: 8484599125849095009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

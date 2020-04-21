@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Trap
+  - Ground
+  - Ladder
+  - wallOpener
+  - mazeEnd
+  - Box
+  - Franky
+  - Spawnpoint
+  - Menu
+  - PuzzleConsole
+  - Puzzle
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Franky
+  - Puzzle
+  - Box
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Behind
+    uniqueID: 2599312951
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Text
+    uniqueID: 727042347
+    locked: 0
+  - name: Frankz
+    uniqueID: 3136473593
+    locked: 0
+  - name: Plazer
+    uniqueID: 1375608903
+    locked: 0
+  - name: Arches
+    uniqueID: 4248504719
+    locked: 0
+  - name: Trapdoor
+    uniqueID: 3562988299
+    locked: 0
+  - name: Puzzle
+    uniqueID: 3573042385
+    locked: 0

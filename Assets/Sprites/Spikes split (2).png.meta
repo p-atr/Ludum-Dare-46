@@ -1,0 +1,328 @@
+fileFormatVersion: 2
+guid: 859c51ea25a9d6e47bd65fc704dce2a9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1334674210404380029
+    second: Spikes split (2)_0
+  - first:
+      213: 9217011190768768188
+    second: Spikes split (2)_1
+  - first:
+      213: -7898074558434333609
+    second: Spikes split (2)_2
+  - first:
+      213: 957373672572643430
+    second: Spikes split (2)_3
+  - first:
+      213: 4127555848347286647
+    second: Spikes split (2)_4
+  - first:
+      213: -3209188408956509384
+    second: Spikes split (2)_5
+  - first:
+      213: -6940870264951435550
+    second: Spikes split (2)_6
+  - first:
+      213: 456410272812496075
+    second: Spikes split (2)_7
+  - first:
+      213: 4163406464514544971
+    second: Spikes split (2)_8
+  - first:
+      213: -3841163446928562462
+    second: Spikes split (2)_9
+  - first:
+      213: 1180905654512115548
+    second: Spikes split (2)_10
+  - first:
+      213: -7907245453918373483
+    second: Spikes split (2)_11
+  - first:
+      213: -8051830467919080066
+    second: Spikes split (2)_12
+  - first:
+      213: -9062072154531502388
+    second: Spikes split (2)_13
+  - first:
+      213: -8186238994147541472
+    second: Spikes split (2)_14
+  - first:
+      213: -254762174460932896
+    second: Spikes split (2)_15
+  - first:
+      213: 3378130172392021215
+    second: Spikes split (2)_16
+  - first:
+      213: -6139756541113509560
+    second: Spikes split (2)_17
+  - first:
+      213: 5700345175636470586
+    second: Spikes split (2)_18
+  - first:
+      213: -3488300335013716029
+    second: Spikes split (2)_19
+  - first:
+      213: 3823923238186380060
+    second: Spikes split (2)_20
+  - first:
+      213: 4035854379589420386
+    second: Spikes split (2)_21
+  - first:
+      213: -3746891813318822287
+    second: Spikes split (2)_22
+  - first:
+      213: 5466291610016171422
+    second: Spikes split (2)_23
+  - first:
+      213: 71143375050019230
+    second: Spikes split (2)_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1080
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spikes split (2)_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 695
+        width: 348
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75140099d6224090800000000000000
+      internalID: -8051830467919080066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spikes split (2)_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 719
+        width: 329
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d270a7f17b58210800000000000000
+      internalID: 1334674210404380029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spikes split (2)_1
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 720
+        width: 329
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb4929c18d669ef70800000000000000
+      internalID: 9217011190768768188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spikes split (2)_2
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 722
+        width: 329
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ca8fee807646290800000000000000
+      internalID: -7898074558434333609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spikes split (2)_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 601
+        width: 329
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668e0076846494d00800000000000000
+      internalID: 957373672572643430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spikes split (2)_4
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 601
+        width: 329
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c7353ec26084930800000000000000
+      internalID: 4127555848347286647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spikes split (2)_5
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 602
+        width: 329
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833a8d2252ca673d0800000000000000
+      internalID: -3209188408956509384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
